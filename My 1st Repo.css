@@ -7,3 +7,15 @@
 *{
     font-family: 'Courier New', Courier, monospace;
 }
+button {
+    visibility: hidden;
+}
+.inline {
+    display: inline;
+}
+.block {
+    display: block;
+}
+.ib {
+    display: inline-block;
+}
